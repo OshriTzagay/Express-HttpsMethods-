@@ -1,3 +1,28 @@
-GET http://localhost:1996/3
+# GET    http://localhost:1996/movies/2
 
-###
+# ###
+
+# POST http://localhost:1996/movies
+# Content-Type:application/json
+
+# {
+#      "id": 100,
+#     "movieName": "POSTTTTT MOVIEEEEEEE",
+#     "rating": 44,
+#     "releaseDate": 313
+# }
+# ###
+
+# PUT http://localhost:1996/movies/2
+
+# Content-Type: application/json
+
+# {
+#     "id": 2,
+#     "movieName": "OOOOOOOOOOOOOOOOOOOOOOOOO",
+#     "rating": 11129,
+#    "releaseDate": 199310
+# }
+
+
+DELETE http://localhost:1996/movies/100
