@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "movieName": "SpiderMan",
+    "rating": 8.5,
+    "releaseDate": 2020
+  },
+  {
+    "id": 2,
+    "movieName": "Friday",
+    "rating": 9.5,
+    "releaseDate": 1996
+  },
+  {
+    "id": 3,
+    "movieName": "Venum",
+    "rating": 6,
+    "releaseDate": 2017
+  },  {
+    "id": 4,
+    "movieName": "Rocky",
+    "rating": 9,
+    "releaseDate": 1990
+  }
+]

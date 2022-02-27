@@ -1,0 +1,16 @@
+{
+  "name": "27_02-express-ex",
+  "version": "1.0.0",
+  "description": "lets go goodWeek!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "go": "nodemon node index.js"
+  },
+  "author": "Oshri-Tzagay",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
